@@ -11,7 +11,7 @@ from https://www.nike.com/w/sale-3yaep or https://twitter.com/home
 ### how to run
 
 - $ python3 -m venv venv
-- $ source __venv__/bin/activate
+- $ source venv/bin/activate
 - $ pip install -r requirements.txt
 - $ mkdir files (if files folder does not exist)
 - $ python main.py
